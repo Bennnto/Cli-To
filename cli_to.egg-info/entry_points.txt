@@ -1,2 +1,0 @@
-[console_scripts]
-cli-to = cli_to:main

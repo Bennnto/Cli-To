@@ -1,8 +1,0 @@
-README.md
-cli_to.py
-setup.py
-cli_to.egg-info/PKG-INFO
-cli_to.egg-info/SOURCES.txt
-cli_to.egg-info/dependency_links.txt
-cli_to.egg-info/entry_points.txt
-cli_to.egg-info/top_level.txt
